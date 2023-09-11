@@ -1,0 +1,11 @@
+/.settings/
+
+/.classpath
+/.project
+
+**/Debug/
+**/x64/
+**/.vs/
+
+**/*.vcxproj*
+**/*.wav
